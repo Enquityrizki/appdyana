@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">DYANA</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Dyana</string>
+    <string name="slide_1_desc">The easiest way to manage your budget</string>
+    <string name="slide_2_title">Salary and Expense</string>
+    <string name="slide_2_desc">Know your salary and your expense</string>
+    <string name="slide3_title">Statistical</string>
+    <string name="slide_3_desc">Know your salary and expanse statistical </string>
+    <string name="title_activity_welcome">welcome</string>
+    <string name="title_activity_login">login</string>
+</resources>
